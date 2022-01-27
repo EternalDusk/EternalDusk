@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/-tylerwiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="-tylerwiseman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/281254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="281254" height="30" width="40" /></a>
 <a href="https://instagram.com/dusk.wiseman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dusk.wiseman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eternalduskgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eternalduskgaming" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/duskai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eternalduskgaming" height="30" width="40" /></a>
 <a href="https://discord.gg/nXfDuSCH3g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nXfDuSCH3g" height="30" width="40" /></a>
 </p>
 
