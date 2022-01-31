@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **too many projects at once.**
 
-- 🌱 I’m currently learning **AI, social media and editing automation, and JavaScript.**
+- 🌱 I’m currently learning **AI, social media and editing automation, and Flutter.**
 
 - 💬 Ask me about **Python and C#**
 
