@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tyler, also known as EternalDusk</h1>
 <h3 align="center">Software developer specializing in Python, proficient in C#, HTML, PHP, Java, and Flutter, master of StackOverflow.</h3>
 
-<p align="left"> <a href="https://twitter.com/duskwiseman" target="blank"><img src="https://img.shields.io/twitter/follow/duskwiseman?logo=twitter&style=for-the-badge" alt="duskwiseman" /></a> </p>
+<p align="left"> <a href="https://linktr.ee/EternalDusk" target="blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="duskwiseman" /></a> </p>
 
 - 🔭 I’m currently working on **too many projects at once.**
 
